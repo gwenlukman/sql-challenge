@@ -4,3 +4,4 @@
     - an image file of the ERD
     - A SQL file of my table schemata called 'creating tables'
     - A SQL file of my queries called 'Data Analysis'
+      
